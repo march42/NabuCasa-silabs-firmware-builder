@@ -17,3 +17,4 @@ misc/**/*.bak
 var/
 *.zap~
 /tools/__pycache__
+/firmware_builds/*/
